@@ -1,0 +1,12 @@
+{
+  "name": "感知身体 · 不适助手",
+  "short_name": "感知身体",
+  "description": "肌肉骨骼不适的解剖教育和一般护理信息",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#f7f7f2",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

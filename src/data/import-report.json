@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-09-28T04:55:00.526Z",
+  "concepts": 4871,
+  "maleConcepts": 3432,
+  "femaleConcepts": 1439,
+  "maleParts": 2234,
+  "femaleParts": 1220,
+  "femaleBorrowedParts": 180,
+  "femaleDonorMuscleParts": 76,
+  "untranslated": 883,
+  "sourceVersions": {
+    "male": "BodyParts3D 4.0",
+    "female": "Human Reference Atlas female v1.10"
+  },
+  "sha256": {
+    "male": "d6979fc62cf18fa4f08a9e6efae8fdac9ec383c5a1f3c757920125ac758429fe",
+    "female": "349ad9085901db2cced179d467542271289ee0b259414a78814402d5ac374d2f",
+    "dictionary": "185a04b83a54116d84a67df7f9a55e8cded593c10a97153817e68a0449cb7e4a"
+  }
+}
