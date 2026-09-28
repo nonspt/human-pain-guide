@@ -31,5 +31,5 @@ pnpm build
 
 浏览器测试需要本机安装 Chrome，并先运行 `pnpm dev`；也可设置 `CHROME_PATH` 和 `APP_URL`。该测试使用 390×844 的移动端视口核查基本交互、危险信号、记录、横向溢出和不加载三维文件。真实 iPhone Safari、VoiceOver、离线安装及临床案例验证仍须单独完成。
 
-完整方案与内容边界见 [开发方案.md](开发方案.md)。解剖数据署名沿用 [原项目署名文件](../human-atlas-cn/public/ATTRIBUTION.md)。
+完整方案与内容边界见 [开发方案.md](开发方案.md)。解剖数据署名沿用 [原项目署名文件](https://github.com/nonspt/human-atlas-cn/blob/main/public/ATTRIBUTION.md)。
 
